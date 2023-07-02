@@ -1,0 +1,42 @@
+[
+    {
+        "itemList": [
+            "Single page application (spa) - Mobile Responsive",
+            "usnig react router,use context api",
+            "use firebase, MongoDB server",
+            "use Express, dotenv, cors"
+        ],
+        "projectName": "Animal-Kidol",
+        "image": "https://i.ibb.co/NnnqfKX/Screenshot-1.png",
+        "images": [
+            "https://i.ibb.co/47MJsc6/Screenshot-2.png",
+    "https://i.ibb.co/jzPRKB4/Screenshot-3.png",
+    "https://i.ibb.co/yhq1sRb/Screenshot-4.png",
+    "https://i.ibb.co/m6yb0w2/Screenshot-5.png"
+        ],
+        "link":"https://simple-firebase-21f88.web.app/"
+    },
+
+    {
+        "itemList": [
+            "Single page application (spa) - Mobile Responsive",
+            "usnig react router,use context api",
+            "use firebase, MongoDB server",
+            "use Express, dotenv, cors",
+            " use stripe, tanstack Quary, Axios, jwt"
+        ],
+        "projectName": "Doc-House",
+        "image": "https://i.ibb.co/YXyVbbP/Screenshot-1.png",
+        "images": [
+             "https://i.ibb.co/VjzjD72/Screenshot-1.png",
+"https://i.ibb.co/cDQwNSf/Screenshot-2.png",
+"https://i.ibb.co/bmWChb4/Screenshot-3.png",
+"https://i.ibb.co/5G0c43m/Screenshot-4.png",
+"https://i.ibb.co/JQxRZ62/Screenshot-5.png",
+"https://i.ibb.co/vDcCscF/Screenshot-6.png",
+"https://i.ibb.co/9rnsWCT/Screenshot-7.png",
+"https://i.ibb.co/vPs4dvS/Screenshot-8.png"
+        ],
+        "link":"https://recap-firebase-a1915.firebaseapp.com/"
+    }
+]
