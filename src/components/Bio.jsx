@@ -69,11 +69,12 @@ const Bio = () => {
                 Download CV
               </a>
             </button>
-            <button className="bg-gray-200 text-gray-500 px-8 py-4 rounded-sm hover:bg-opacity-90 hover:shadow-md">
-              <Link to={`contact`} spy={true} smooth={true} duration={500}>
+
+            <Link to={`contact`} spy={true} smooth={true} duration={500}>
+              <button className="bg-gray-200 text-gray-500 px-8 py-4 rounded-sm hover:bg-opacity-90 hover:shadow-md hover:text-gray-950">
                 Contact Me
-              </Link>
-            </button>
+              </button>
+            </Link>
           </div>
         </div>
       </div>
